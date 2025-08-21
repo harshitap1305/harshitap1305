@@ -5,10 +5,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="My Local Image" />
 </div>
 
-<h2>💫 About Me:</h2>
-🔭 I’m currently working on Chattrix - Chat Application<br>🌱 I’m currently learning Flutter and Machine Learning<br>💬 Ask me about React, C++, JavaScript<br>⚡ Fun Fact: Building projects gives me a bigger dopamine hit than social media likes.
-
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshitapatidar257@gmail.com) 
 
