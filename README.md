@@ -13,9 +13,7 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=harshitap1305&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=harshitap1305&theme=dark&hide_border=false" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitap1305&" alt="harshitap1305" /></p>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitap1305&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
