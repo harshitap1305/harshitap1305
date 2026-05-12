@@ -51,9 +51,9 @@ class Harshita:
 
 | Area | Focus |
 |---|---|
-| 🤖 **AI / LLM Systems** | Building apps with Gemini, GROQ APIs — pipelines, RAG, agents |
+| 🤖 **AI / LLM Systems** | Building production apps with LLM integrations — pipelines, RAG, agentic workflows |
 | 📡 **Low-Level Systems** | Exploring computer networks; something big coming soon |
-| 🧠 **Machine Learning** | Graph Neural Networks, anomaly detection, embedding models |
+| 🧠 **Machine Learning** | Actively learning — core concepts, models, and hands-on implementation  |
 | ⚡ **GPU Programming** | CUDA C++ kernels — warp-level attention, custom SpMM ops |
 
 ---
