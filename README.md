@@ -211,6 +211,9 @@ Led ERP transition — redesigned schema, RBAC, role dashboards for Students, Ge
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitap1305&theme=tokyonight&hide_border=true" />
 </div>
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=harshitap1305&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
+</div>
 
 <!-- <div aline="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitap1305&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
