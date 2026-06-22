@@ -246,8 +246,6 @@ I'm actively looking for **internship opportunities** and **open source collabor
 
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn"/>
-
 *"A little more persistence, a little more effort — and what seemed hopeless failure may turn to glorious success."*
 
 </div>
