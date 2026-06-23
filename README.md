@@ -1,16 +1,8 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Harshita%20Patidar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Builder.%20Learner.%20Tinkerer.&descAlignY=58&descSize=18&animation=fadeIn" />
-
-</div>
-
-<div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=IIT+Bhilai+%7C+CSE+%7C+Class+of+2027;Building+at+the+intersection+of+AI+%2B+Systems)](https://git.io/typing-svg)
 
 </div>
-
-<br/>
 
 <div align="center">
 
@@ -37,12 +29,6 @@ class Harshita:
         ]
         self.loves       = ["AI/ML", "Full-Stack", "Low-level systems", "Open Source"]
         self.open_to     = ["Internships", "Research", "Open Source Collaborations"]
-
-    def quote(self):
-        return """
-        'A little more persistence, a little more effort —
-         and what seemed hopeless failure may turn to glorious success.'
-        """
 ```
 
 ---
@@ -64,9 +50,9 @@ class Harshita:
 
 🥇 **1st Place** — Intra-IIT RAG Challenge &nbsp;|&nbsp; 🏅 **Rank 12/23 IITs** — Inter-IIT Tech Meet 13.0 (Agentic AI)
 
-🎯 **1800+ LeetCode Rating** · 800+ problems &nbsp;|&nbsp; 🇮🇳 **Top 3%** JEE Mains · **Top 9.3%** JEE Advanced
+🎯 **1800+ LeetCode Rating** · 1000+ problems &nbsp;|&nbsp; 
 
-🛡️ **Intern @ Indian Army** — Secure AI Summarization Platform &nbsp;|&nbsp; ✅ **SIH 2025** Qualifier
+🛡️ **Intern @ Indian Army** — Sentinel AI &nbsp;|&nbsp; ✅ **SIH 2025** Qualifier
 
 </div>
 
