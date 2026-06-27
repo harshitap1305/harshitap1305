@@ -57,7 +57,7 @@ class Harshita:
 </div>
 
 ---
-
+<!---
 ## 🚀 Featured Projects
 
 <table>
@@ -128,7 +128,7 @@ Led ERP transition — redesigned schema, RBAC, role dashboards for Students, Ge
 </td>
 </tr>
 </table>
-
+--->
 ---
 
 ## 🛠️ Tech Stack
@@ -190,13 +190,18 @@ Led ERP transition — redesigned schema, RBAC, role dashboards for Students, Ge
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshitap1305&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitap1305&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+  <table border="0" cellpadding="0" cellspacing="5" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=harshitap1305&theme=dark&hide_border=true&show_icons=true" alt="GitHub Stats" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=harshitap1305&theme=github_dark&hide_border=false" alt="Streak Stats" width="100%" />
+    </td>
+  </tr>
+</table>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitap1305&theme=tokyonight&hide_border=true" />
-</div>
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=harshitap1305&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"/>
 </div>
