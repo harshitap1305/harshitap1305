@@ -3,7 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=IIT+Bhilai+%7C+CSE+%7C+Class+of+2027;Building+at+the+intersection+of+AI+%2B+Systems)](https://git.io/typing-svg)
 
 </div>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshitap1305" />
+</div>
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitapatidar257@gmail.com)
