@@ -50,7 +50,7 @@ class Harshita:
 
 <div align="center">
 
-🥇 **1st Place** — Intra-IIT RAG Challenge &nbsp;|&nbsp; 🏅 **Rank 12/23 IITs** — Inter-IIT Tech Meet 13.0 (Agentic AI)
+🥇 **1st Place** — Intra-IIT RAG Challenge &nbsp;|&nbsp; 🏅 **Rank 12/23 IITs** — Inter-IIT Tech Meet 14.0 (Agentic AI)
 
 🎯 **1800+ LeetCode Rating** · 1000+ problems &nbsp;|&nbsp; 
 
